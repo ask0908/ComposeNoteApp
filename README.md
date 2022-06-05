@@ -1,0 +1,4 @@
+- MVVM Clean Architecture
+- Hilt
+- Jetpack Compose
+- Room(CRUD)
