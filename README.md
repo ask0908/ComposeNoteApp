@@ -2,3 +2,4 @@
 - Hilt
 - Jetpack Compose
 - Room(CRUD)
+- Coroutine Flow
